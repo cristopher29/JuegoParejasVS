@@ -16,6 +16,8 @@ namespace JuegoTest
 {
     public partial class Form1 : Form
     {
+
+        //Creado por Cristopher Q.
         //fácil = 1, normal = 3, difícil = 5
 
         /**SoundPlayer sndplayr = new SoundPlayer(JuegoTest.Properties.Resources.Sound);**/

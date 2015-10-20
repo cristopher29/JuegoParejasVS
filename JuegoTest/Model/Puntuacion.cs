@@ -12,8 +12,8 @@ namespace JuegoTest.Model
 {
     class Puntuacion
     {
-        int suma;
-        String nombre;
+        private int suma;
+        private String nombre;
 
         public void SetPuntuacion(int punt, int cont)
         {
